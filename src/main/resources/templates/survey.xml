@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<surveys>
+    <currency id="1" name="грн"/>
+    <currency id="2" name="фунт"/>
+    <currency id="3" name="долр"/>
+    <currency id="4" name="евро"/>
+    <currency id="5" name="руб"/>
+    <weight id="1" name="тон"/>
+    <weight id="2" name="кг"/>
+</surveys>

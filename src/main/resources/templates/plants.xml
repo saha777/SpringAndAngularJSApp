@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plants>
+    <family id="1" name="ПОЛЕВЫЕ РАСТЕНИЯ">
+        <kind id="1" name="ЗЛАКОВЫЕ ХЛЕБНЫЕ И КРУПЯНЫЕ">
+            <group id="1" name="Пшеница"/>
+            <group id="2" name="Ячмень"/>
+            <group id="3" name="Рис"/>
+            <group id="4" name="Кукуруза"/>
+            <group id="5" name="Сорго"/>
+            <group id="6" name="Просо"/>
+            <group id="7" name="Дагусса"/>
+            <group id="8" name="Фонио"/>
+            <group id="9" name="Теф"/>
+        </kind>
+        <kind id="2" name="ЗЕРНОВЫЕ БОБОВЫЕ">
+            <group id="1" name="Соя"/>
+            <group id="2" name="Фасоль"/>
+            <group id="3" name="Вигна"/>
+            <group id="4" name="Каянус"/>
+            <group id="5" name="Долихос"/>
+            <group id="6" name="Нут"/>
+            <group id="7" name="Чечевица"/>
+            <group id="8" name="Горох"/>
+            <group id="9" name="Чина"/>
+            <group id="10" name="Бобы"/>
+        </kind>
+        <kind id="3" name="КРАХМАЛОНОСНЫЕ">
+            <group id="1" name="Маниока"/>
+            <group id="2" name="Батат"/>
+            <group id="3" name="Картофель"/>
+            <group id="4" name="Ямс"/>
+            <group id="5" name="Таро"/>
+            <group id="6" name="Канна"/>
+            <group id="7" name="Маранта"/>
+            <group id="8" name="Ока"/>
+            <group id="9" name="Улюко"/>
+            <group id="10" name="Аньу"/>
+        </kind>
+        <kind id="4" name="САХАРОНОСНЫЕ">
+            <group id="1" name="Сахарный тростник"></group>
+            <group id="2" name="Сахарная свекла"></group>
+            <group id="3" name="Сахарное сорго"></group>
+            <group id="4" name="Сахарная пальма"></group>
+        </kind>
+        <kind id="5" name="МАСЛИЧНЫЕ">
+            <group id="1" name="Арахис"></group>
+            <group id="2" name="Подсолнечник"></group>
+            <group id="3" name="Сафлор"></group>
+            <group id="4" name="Кунжут"></group>
+            <group id="5" name="Клещевина"></group>
+            <group id="6" name="Рапс"></group>
+            <group id="7" name="Горчица"></group>
+            <group id="8" name="Сарзон"></group>
+            <group id="9" name="Тунг"></group>
+        </kind>
+        <kind id="6" name="ПРЯНЫЕ">
+            <group id="1" name="Перец черный"></group>
+            <group id="2" name="Гвоздичное дерево"></group>
+            <group id="3" name="Коричное дерево"></group>
+            <group id="4" name="Мускатное дерево"></group>
+            <group id="5" name="Базилик обыкновенный"></group>
+            <group id="6" name="Куркума длинная"></group>
+            <group id="7" name="Имбирь"></group>
+            <group id="8" name="Кардамон"></group>
+            <group id="9" name="Ваниль душистая"></group>
+            <group id="10" name="Лаванда настоящая"></group>
+        </kind>
+        <kind id="7" name="ВОЛОКНИСТЫЕ">
+            <group id="1" name="Хлопчатник"></group>
+            <group id="2" name="Капок"></group>
+            <group id="3" name="Джут"></group>
+            <group id="4" name="Кенаф"></group>
+            <group id="5" name="Рами"></group>
+            <group id="6" name="Лен"></group>
+            <group id="7" name="Конопля"></group>
+            <group id="8" name="Кроталярия"></group>
+            <group id="9" name="Сизаль"></group>
+            <group id="10" name="Хенекен"></group>
+            <group id="11" name="Кантала"></group>
+            <group id="12" name="Фуркрея"></group>
+            <group id="13" name="Банан текстильный"></group>
+            <group id="14" name="Новозеландский лен"></group>
+            <group id="15" name="Сансевиера"></group>
+        </kind>
+        <kind id="8" name="КАУЧУКОНОСНЫЕ И ДРУГИЕ РАСТЕНИЯ">
+            <group id="1" name="Гевея"></group>
+            <group id="2" name="Табак"></group>
+        </kind>
+        <kind id="9" name="КОРМОВЫЕ ЗЛАКОВЫЕ ТРАВЫ">
+            <group id="1" name="Слоновая трава"></group>
+            <group id="2" name="Гвинейская трава"></group>
+            <group id="3" name="Бермудская трава"></group>
+            <group id="4" name="Буфельская трава"></group>
+            <group id="5" name="Росичка лежачая"></group>
+            <group id="6" name="Родсова трава"></group>
+            <group id="7" name="Бородач африканский"></group>
+            <group id="8" name="Параграс"></group>
+            <group id="9" name="Щетинник золотой"></group>
+            <group id="10" name="Паспалум расширенный"></group>
+        </kind>
+        <kind id="10" name="КОРМОВЫЕ БОБОВЫЕ ТРАВЫ">
+            <group id="1" name="Люцерна посевная"></group>
+            <group id="2" name="Люцерна бразильская"></group>
+            <group id="3" name="Центрозема опушенная"></group>
+            <group id="4" name="Пуэрария фасолевидная"></group>
+            <group id="5" name="Соя яванская"></group>
+            <group id="6" name="Десмодиум крученый"></group>
+            <group id="7" name="Десмодиум крючковатый"></group>
+            <group id="8" name="Калопогон мукуновый"></group>
+            <group id="9" name="Люцерна таунсвильская"></group>
+        </kind>
+    </family>
+    <family id="2" name="ОВОЩНЫЕ РАСТЕНИЯ">
+        <kind id="1" name="ПАСЛЕНОВЫЕ">
+            <group id="1" name="Томат"></group>
+            <group id="2" name="Перец овощной"></group>
+            <group id="3" name="Баклажан"></group>
+            <group id="4" name="Физалис"></group>
+        </kind>
+        <kind id="2" name="КАПУСТНЫЕ">
+            <group id="1" name="Капуста кочанная"></group>
+            <group id="2" name="Капуста цветная"></group>
+            <group id="3" name="Кольраби"></group>
+            <group id="4" name="Восточноазиатские виды"></group>
+            <group id="5" name="Капуста абиссинская"></group>
+            <group id="6" name="Кресс-салат"></group>
+            <group id="7" name="Редис и редька"></group>
+            <group id="8" name="Репа"></group>
+        </kind>
+        <kind id="3" name="ТЫКВЕННЫЕ">
+            <group id="1" name="Тыква"></group>
+            <group id="2" name="Тыква вонючая"></group>
+            <group id="3" name="Арбуз"></group>
+            <group id="4" name="Дыня"></group>
+            <group id="5" name="Огурец"></group>
+            <group id="6" name="Чайот"></group>
+            <group id="7" name="Момордика"></group>
+            <group id="8" name="Трихозант"></group>
+            <group id="9" name="Люффа"></group>
+            <group id="10" name="Лагенария"></group>
+            <group id="11" name="Бенинказа"></group>
+        </kind>
+        <kind id="4" name="КОРНЕПЛОДЫ">
+            <group id="1" name="Морковь"></group>
+            <group id="2" name="Cвекла столовая"></group>
+            <group id="3" name="Петрушка"></group>
+            <group id="4" name="Сельдерей"></group>
+            <group id="5" name="Спаржа"></group>
+            <group id="6" name="Бамия"></group>
+            <group id="7" name="Салат"></group>
+            <group id="8" name="Амарант"></group>
+        </kind>
+        <kind id="5" name="ЛУКОВЫЕ">
+            <group id="1" name="Лук репчатый"></group>
+            <group id="2" name="Лук-порей"></group>
+            <group id="3" name="Чеснок"></group>
+        </kind>
+    </family>
+    <family id="3" name="ПЛОДОВЫЕ РАСТЕНИЯ">
+        <kind id="1" name="ЦИТРУСОВЫЕ">
+            <group id="1" name="Апельсин сладкий"></group>
+            <group id="2" name="Лимон"></group>
+            <group id="3" name="Лайм"></group>
+            <group id="4" name="Мандарин"></group>
+            <group id="5" name="Грейпфрут"></group>
+            <group id="6" name="Помпельмус"></group>
+            <group id="7" name="Апельсин кислый"></group>
+            <group id="8" name="Цитрон"></group>
+            <group id="9" name="Кинкан"></group>
+            <group id="10" name="Понцирус"></group>
+        </kind>
+        <kind id="2" name="ТРОПИЧЕСКИЕ РАЗНОПЛОДНЫЕ">
+            <group id="1" name="Банан"></group>
+            <group id="2" name="Манго"></group>
+            <group id="3" name="Ананас"></group>
+            <group id="4" name="Папайя"></group>
+            <group id="5" name="Авокадо"></group>
+            <group id="6" name="Хлебное дерево"></group>
+            <group id="7" name="Гуайява"></group>
+            <group id="8" name="Эвгения"></group>
+            <group id="9" name="Сапота"></group>
+            <group id="10" name="Анона"></group>
+            <group id="11" name="Пассифлора"></group>
+            <group id="12" name="Личи"></group>
+            <group id="13" name="Мангустан"></group>
+            <group id="14" name="Рамбутан"></group>
+            <group id="15" name="Дуриан"></group>
+            <group id="16" name="Опунция"></group>
+            <group id="17" name="Томатное дерево"></group>
+            <group id="18" name="Тамаринд"></group>
+            <group id="19" name="Аонла"></group>
+            <group id="20" name="Мальпигия"></group>
+            <group id="21" name="Карамболя и билимби"></group>
+            <group id="22" name="Блихия"></group>
+        </kind>
+        <kind id="3" name="РАЗНОПЛОДНЫЕ СУБТРОПИЧЕСКОЙ ЗОНЫ">
+            <group id="1" name="Виноград"></group>
+            <group id="2" name="Хурма"></group>
+            <group id="3" name="Гранат"></group>
+            <group id="4" name="Финиковая пальма"></group>
+            <group id="5" name="Инжир"></group>
+            <group id="6" name="Эриоботрия"></group>
+            <group id="7" name="Фейхоа"></group>
+            <group id="8" name="Унаби"></group>
+            <group id="9" name="Цератония"></group>
+            <group id="10" name="Кизил"></group>
+            <group id="11" name="Шелковица"></group>
+        </kind>
+        <kind id="4" name="ОРЕХОПЛОДНЫЕ">
+            <group id="1" name="Миндаль"></group>
+            <group id="2" name="Орехи Югланс"></group>
+            <group id="3" name="Кажу"></group>
+            <group id="4" name="Лещина (фундук)"></group>
+            <group id="5" name="Фисташка"></group>
+            <group id="6" name="Кария"></group>
+            <group id="7" name="Каштан"></group>
+            <group id="8" name="Бразильский орех"></group>
+            <group id="9" name="Макадамия"></group>
+        </kind>
+        <kind id="5" name="ТОНИЗИРУЮЩИЕ">
+            <group id="1" name="Кофе"></group>
+            <group id="2" name="Какао"></group>
+            <group id="3" name="Кола"></group>
+            <group id="4" name="Чай"></group>
+            <group id="5" name="Чай парагвайский"></group>
+            <group id="6" name="Гуарана"></group>
+            <group id="7" name="Кокаиновый кустарник"></group>
+            <group id="8" name="Ката"></group>
+        </kind>
+        <kind id="6" name="МАСЛИЧНЫЕ">
+            <group id="1" name="Масличная пальма"></group>
+            <group id="2" name="Кокосовая пальма"></group>
+            <group id="3" name="Маслина"></group>
+        </kind>
+        <kind id="7" name="ЯГОДНЫЕ">
+            <group id="1" name="Земляника"></group>
+            <group id="2" name="Актинидия"></group>
+        </kind>
+    </family>
+</plants>

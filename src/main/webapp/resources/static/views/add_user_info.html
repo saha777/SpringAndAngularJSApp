@@ -1,0 +1,54 @@
+<div class="container" ng-controller="addUserInfoController">
+    <div class="row main">
+        <div class="main-login main-center">
+            <h2>Additional information about you</h2>
+            <form  name="adinfoForm" novalidate>
+
+                <div class="form-group">
+                    <label for="region" class="cols-sm-2 control-label">Region</label>
+                    <div class="cols-sm-10">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-map fa" aria-hidden="true"></i></span>
+                            <select ng-model="region" ng-options="region for region in regions" ng-change="changeRegion()"class="form-control" name="region" id="region"
+                                    placeholder="Enter Region" required></select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="city" class="cols-sm-2 control-label">City</label>
+                    <div class="cols-sm-10">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-map fa" aria-hidden="true"></i></span>
+                            <select ng-model="city" ng-options="city for city in cities" class="form-control" name="city" id="city"
+                                    placeholder="Enter City" required></select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="description" class="cols-sm-2 control-label">Description</label>
+                    <div class="cols-sm-10">
+                        <div class="input-group">
+                            <span class="input-group-addon"><i class="fa fa-comment fa" aria-hidden="true"></i></span>
+                            <textarea ng-model="description" rows="5" class="form-control" name="description" id="description"  placeholder="Enter your Description"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="form-group ">
+                    <a target="_blank" type="button"
+                       id="button" class="btn btn-primary btn-lg btn-block login-button"
+                       ng-disabled="singUpForm.firstname.$dirty && myForm.firstname.$invalid || singUpForm.lastname.$dirty && myForm.lastname.$invalid"
+                       ng-click="save()">Save</a>
+                </div>
+                <div class="form-group ">
+                    <a target="_blank" type="button"
+                       class="btn btn-primary btn-lg btn-block login-button"
+                       ng-click="later()">Later</a>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

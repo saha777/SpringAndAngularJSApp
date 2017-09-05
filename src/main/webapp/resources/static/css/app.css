@@ -1,0 +1,13 @@
+body{
+    background-color: #A6A6A6;
+    font-family: 'Oxygen', sans-serif;
+    background-size: cover;
+}
+
+.main{
+    margin:50px 15px;
+}
+.dump{
+    height: 100px;
+    width: 100%;
+}
